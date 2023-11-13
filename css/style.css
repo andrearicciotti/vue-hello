@@ -1,5 +1,17 @@
 .container {
     width: 80%;
     margin: 0 auto;
+    text-align: center;
+}
+
+.hide {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.onClick {
+    cursor: pointer;
+    opacity: 1;
+    border: 2px solid green;
 }
 
